@@ -1,0 +1,42 @@
+li {
+  display: inline-block;
+  font-size: 190%;
+}
+
+h3 {
+  margin-top: 90px;
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+}
+
+.copyright {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.fa-facebook-square {
+color:#3b5999;
+}
+
+.fa-twitter-square {
+color:#55acee;
+}
+
+.fa-youtube-square {
+color:#cd201f;
+}
+
+.fa-google-square {
+color:#d34836;
+}
+.fa-instagram-square {
+color:#e4405f;
+}
+
+
+.first{
+  margin-top: 40px;
+}

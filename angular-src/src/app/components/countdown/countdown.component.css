@@ -1,0 +1,40 @@
+.center {
+  text-align: center;
+}
+
+#clock-countdown {
+    color: #000;
+    max-width: 60%;
+    margin: 0 auto;
+
+
+}
+
+.inners {
+  height: 100%;
+  display: table-column;
+  border-bottom: 1px solid #000;
+}
+
+.days,
+.hours,
+.minutes,
+.seconds {
+  text-align: center;
+  padding: 10px 0;
+  font-size: 180%;
+  font-style: bold;
+}
+.letters {
+  text-align: center;
+  padding: 10px 0;
+}
+
+h3 {
+  text-align: center;
+  margin-top: 40px;
+}
+
+form{
+  margin-top: 40px;
+}
